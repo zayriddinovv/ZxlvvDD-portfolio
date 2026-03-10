@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="Logo.png" width="200">
-</p>
-
+![Logo](logo.png)
 # ZxlvvvDD Portfolio Showcase 💻
 
 Welcome to ZxlvvDD's Portfolio Showcase!
