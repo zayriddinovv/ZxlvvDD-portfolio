@@ -1,4 +1,6 @@
-![Logo](logo.png)
+<p align="center">
+  <img src="logo.png" width="60%">
+</p>
 # ZxlvvvDD Portfolio Showcase 💻
 
 Welcome to ZxlvvDD's Portfolio Showcase!
