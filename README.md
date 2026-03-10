@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="60%">
+  <img src="Logo.png" width="100%">
 </p>
 # ZxlvvvDD Portfolio Showcase 💻
 
